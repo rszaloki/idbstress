@@ -1,0 +1,2 @@
+# idbstress
+IndexedDB stresstest
